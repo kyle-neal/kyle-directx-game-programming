@@ -1,0 +1,16 @@
+﻿  compilation header save succeeded; see F:\Programming\2016 - Chili directx programming\Chili DirectX Framework\kyle-directx-game-programming\Engine\FramebufferPS.shh
+  compilation header save succeeded; see F:\Programming\2016 - Chili directx programming\Chili DirectX Framework\kyle-directx-game-programming\Engine\FramebufferVS.shh
+  DXErr.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Generating code
+  619 of 620 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> F:\Programming\2016 - Chili directx programming\Chili DirectX Framework\kyle-directx-game-programming\Release\Engine.exe
+  Engine.vcxproj -> F:\Programming\2016 - Chili directx programming\Chili DirectX Framework\kyle-directx-game-programming\Release\Engine.pdb (Full PDB)
